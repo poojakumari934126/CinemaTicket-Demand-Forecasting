@@ -1,0 +1,7 @@
+{
+  "model": "RandomForestRegressor",
+  "test_rows": 600,
+  "MAE": 8.788,
+  "RMSE": 11.484,
+  "R2": 0.7465
+}
